@@ -1,6 +1,42 @@
 # 💫 About Me:
 👋 Hello, I'm Tushar! <br><br>🚀 What I'm Working On<br>- **Full Stack Development**: Building and maintaining web applications using the **MERN stack**.<br>- **Open Source Contributions**: Actively contributing to various open-source projects and collaborating with other developers.<br><br>🌱 What I'm Learning<br>- **Machine Learning**: Exploring AI and ML when I find time to expand my knowledge.<br>- **DSA**: Deepening my knowledge of advanced algorithms and data structures for real-world problem-solving.<br>- **Web Development Trends**: Staying updated with the latest tools and frameworks in web development to build modern, efficient applications.<br><br>🤔 Fun Fact<br>I once solved a problem using **three different algorithms** before realizing there was a much simpler one! 🤯
+## 🚀 Key Projects
 
+
+### ⚡ Order Matching Engine
+This project implements a high-performance, concurrent, multi-threaded **Order Matching Engine** in C++, using advanced data structures and algorithmic optimizations common in financial trading systems.
+- **Features**: Price-Time Priority, support for multiple trading pairs, and low-latency performance.
+
+---
+
+### 🤝 CrowdSourced Event Availability Finder
+A collaborative tool that crowdsources event availability, making it easy for users to discover and coordinate events.
+
+- **Features**: Time slot voting, real-time updates, and easy link sharing for event participation.
+
+---
+
+
+### 📝 Personal Blogging Platform API
+A robust API for a personal blogging platform, empowering users to effortlessly create, manage, and share blog posts.
+
+- **Features**: CRUD for posts, markdown support, and public/private post visibility.
+
+---
+
+### 🐦 X-Clone
+A full-featured social media clone, designed for seamless user interaction and a modern, intuitive experience.
+
+- **Features**: Real-time feed, likes, comments, following system, and user authentication.
+
+---
+
+### 📡 Broadcast Server CLI
+A command-line broadcast system utilizing WebSockets for real-time messaging between clients and servers.
+
+- **Features**: Real-time message broadcasting, multiple client support, and easy CLI-based setup.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tushar_saxena5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-saxena-779788235) 
